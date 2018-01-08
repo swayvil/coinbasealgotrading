@@ -1,0 +1,14 @@
+{
+	"wssURL": "wss://ws-feed.gdax.com",
+	"baseURL": "https://api.gdax.com",
+	"account": {
+			"secret": "XXX",
+			"key": "XXX",
+			"passphrase": "XXX"
+	},
+	"init": {
+		"crypto": "BTC",
+		"currency": "USD"
+	},
+	"consoleLog": "/tmp/consoleLog.txt"
+}
